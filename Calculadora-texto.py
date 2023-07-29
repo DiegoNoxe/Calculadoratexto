@@ -1,6 +1,6 @@
 def titulo():
     print()
-    print(' | Calculadora a base de texto | ')
+     print('\033[1;35m\033[1;35m | Calculadora a base de texto |\033[m ')
     print()
 def escolha():
     print()
